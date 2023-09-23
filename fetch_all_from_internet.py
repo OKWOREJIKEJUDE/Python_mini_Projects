@@ -30,4 +30,5 @@ for j in jsonData:
 print(len(jokes))
 
 for jokesss in jokes:
+    print()
     print(jokesss)
